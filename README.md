@@ -1,7 +1,7 @@
 # Library-2020-Java-SpringBoot-Hibernate-JSP
 
 The project from 2016 updated to the latest versions of:
-  Java 14,
+  Java 14
   Spring Boot 2.2.6.RELEASE
   Spring Security 5.2.2
   Spring MVC 5.2.5
